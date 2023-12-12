@@ -1,0 +1,21 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+env/
+pyvenv.cfg
+
+# Streamlit files
+.streamlit/
+
+# Other directories that might contain sensitive or unnecessary data
+bin/
+etc/
+include/
+lib/
+share/
